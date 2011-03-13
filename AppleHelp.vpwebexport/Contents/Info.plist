@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayName</key>
+	<string>Apple Help Files</string>
+	<key>LSTypeIsPackage</key>
+	<true/>
+	<key>PostflightScripts</key>
+	<array>
+		<string>Contents/postflight.sh</string>
+	</array>
+	<key>PreflightScripts</key>
+	<array>
+		<string>Contents/preflight.sh</string>
+	</array>
+	<key>PreviewImage</key>
+	<string>Contents/preview.png</string>
+	<key>PrincipalTemplate</key>
+	<string>Contents/template.html</string>
+</dict>
+</plist>

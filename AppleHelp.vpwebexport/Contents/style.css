@@ -1,0 +1,62 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	color: black;
+	background-color: white;
+	font: 1em Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+	font: bold 130% "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+h2 {
+	font: bold 110% "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+#main
+{
+	padding: 20px;
+}
+
+#header
+{
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: solid 1px gray;
+	padding: 5px;
+	background-color: #D5EEF9;
+}
+
+#footer
+{
+	border-top: solid 1px lightgray;
+	padding: 10px;
+	font-family: georgia, serif;
+	font-size: 9pt;
+}
+
+ol {
+	padding-right: 1em;
+	padding-left: 3em;
+	background-color: #f0f0f0;
+	border-style: groove;
+	margin-right: 1em;
+}
+
+th, td {
+	border: 1px dotted black;
+	padding: .2em 1em;
+
+}
+
+table {
+	
+	border-collapse: collapse;
+}
+
+
+.bullet1indent {
+	margin-left: 2.5em;
+}
